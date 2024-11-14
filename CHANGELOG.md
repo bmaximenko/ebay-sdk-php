@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 19.2.1 - 2024-11-15
+
+- Added type declarations for `DTS\eBaySDK\Types\RepeatableType` to fix deprecation warnings
+
 ## 19.2.0 - 2024-04-05
 
 - Fix deprecated call to `http_build_query` (https://github.com/BenMorel/ebay-sdk-php/pull/6 by @Wojtazzzz)

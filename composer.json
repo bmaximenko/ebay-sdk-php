@@ -1,6 +1,6 @@
 {
-    "name": "benmorel/ebay-sdk-php",
-    "description": "An eBay SDK for PHP. Fork of dts/ebay-sdk-php with support for PHP 8.",
+    "name": "bmaximenko/ebay-sdk-php",
+    "description": "An eBay SDK for PHP. Fork of benmorel/ebay-sdk-php with support for PHP 8.2",
     "keywords": ["ebay", "api", "sdk"],
     "type": "library",
     "license": "(Apache-2.0 and MIT)",
@@ -13,10 +13,14 @@
         {
           "name": "Benjamin Morel",
           "email": "benjamin.morel@gmail.com"
+        },
+        {
+          "name": "Bohdan Maksymenko",
+          "email": "b.maximenko@gmail.com"
         }
     ],
     "require": {
-        "php-64bit": "^7.2 || ^8.0",
+        "php-64bit": "^8.0",
         "ext-curl": "*",
         "ext-libxml": "*",
         "guzzlehttp/guzzle": "^6.0 || ^7.0",

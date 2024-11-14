@@ -1,14 +1,14 @@
 # eBay SDK for PHP
 
-This is a fork of the original [dts/ebay-sdk-php](https://github.com/davidtsadler/ebay-sdk-php) by [@davidtsadler](https://github.com/davidtsadler), with support for PHP 7.3, PHP 7.4 and PHP 8, and compatibility with Guzzle 7.
+This is a fork of [benmorel/ebay-sdk-php](https://github.com/benmorel/ebay-sdk-php) by [@benmorel](https://github.com/benmorel), with support for PHP 8.2.
 
 The original project has been officially abandoned in February 2020.
 
 **I'm planning to maintain this fork in the short term.** The aim is not to keep it up to date with the latest eBay API versions,
-but to provide a solution for a smooth upgrade of existing apps to PHP 8. New users should seek a better SDK for PHP.
+but to provide a solution for a smooth upgrade of existing apps to PHP 8.2. New users should seek a better SDK for PHP.
 
-[![Build Status](https://github.com/benmorel/ebay-sdk-php/workflows/CI/badge.svg)](https://github.com/benmorel/ebay-sdk-php/actions)
-[![Latest Stable Version](https://poser.pugx.org/benmorel/ebay-sdk-php/v/stable)](https://packagist.org/packages/benmorel/ebay-sdk-php)
+[![Build Status](https://github.com/bmaximenko/ebay-sdk-php/workflows/CI/badge.svg)](https://github.com/bmaximenko/ebay-sdk-php/actions)
+[![Latest Stable Version](https://poser.pugx.org/bmaximenko/ebay-sdk-php/v/stable)](https://packagist.org/packages/bmaximenko/ebay-sdk-php)
 [![Total Downloads](https://poser.pugx.org/benmorel/ebay-sdk-php/downloads)](https://packagist.org/packages/benmorel/ebay-sdk-php)
 [![License](https://img.shields.io/github/license/benmorel/ebay-sdk-php)](https://opensource.org/license/apache-2-0/)
 ---
@@ -19,13 +19,13 @@ This is a personal project that was originally developed by David T. Sadler, who
 
 ## Features
 
-  - Compatible with PHP 7.2+ or PHP 8.0+.
+  - Compatible with PHP 8.0+.
   - Easy to install with [Composer](http://getcomposer.org/).
   - Compliant with [PSR-1](http://www.php-fig.org/psr/psr-1/), [PSR-2](http://www.php-fig.org/psr/psr-2/) and [PSR-4](http://www.php-fig.org/psr/psr-4/).
 
 ## Requirements
 
-  - PHP 7.2+ or PHP 8.0+ with the following extensions:
+  - PHP 8.0+ with the following extensions:
       - curl
       - libxml
   - 64 bit version
@@ -36,7 +36,7 @@ This is a personal project that was originally developed by David T. Sadler, who
 The SDK can be installed with [Composer](http://getcomposer.org/):
 
 ```
-composer require benmorel/ebay-sdk-php
+composer require bmaximenko/ebay-sdk-php
 ```
 
 ## Example
