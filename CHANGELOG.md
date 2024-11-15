@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 19.2.2 - 2024-11-16
+
+- Updated PHPStan to ^2.0 and generated a new baseline
+
 ## 19.2.1 - 2024-11-15
 
 - Added type declarations for `DTS\eBaySDK\Types\RepeatableType` to fix deprecation warnings

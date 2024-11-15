@@ -9,7 +9,7 @@ but to provide a solution for a smooth upgrade of existing apps to PHP 8.2. New 
 
 [![Build Status](https://github.com/bmaximenko/ebay-sdk-php/workflows/CI/badge.svg)](https://github.com/bmaximenko/ebay-sdk-php/actions)
 [![Latest Stable Version](https://poser.pugx.org/bmaximenko/ebay-sdk-php/v/stable)](https://packagist.org/packages/bmaximenko/ebay-sdk-php)
-[![Total Downloads](https://poser.pugx.org/benmorel/ebay-sdk-php/downloads)](https://packagist.org/packages/benmorel/ebay-sdk-php)
+[![Total Downloads](https://poser.pugx.org/bmaximenko/ebay-sdk-php/downloads)](https://packagist.org/packages/bmaximenko/ebay-sdk-php)
 [![License](https://img.shields.io/github/license/benmorel/ebay-sdk-php)](https://opensource.org/license/apache-2-0/)
 ---
 

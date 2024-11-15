@@ -11,16 +11,16 @@
             "homepage": "http://davidtsadler.com"
         },
         {
-          "name": "Benjamin Morel",
-          "email": "benjamin.morel@gmail.com"
+            "name": "Benjamin Morel",
+            "email": "benjamin.morel@gmail.com"
         },
         {
-          "name": "Bohdan Maksymenko",
-          "email": "b.maximenko@gmail.com"
+            "name": "Bohdan Maksymenko",
+            "email": "b.maximenko@gmail.com"
         }
     ],
     "require": {
-        "php-64bit": "^8.0",
+        "php": "^8.0",
         "ext-curl": "*",
         "ext-libxml": "*",
         "guzzlehttp/guzzle": "^6.0 || ^7.0",
@@ -29,8 +29,8 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^8.0 || ^9.0",
-        "phpstan/phpstan": "^1.10",
-        "phpstan/phpstan-deprecation-rules": "^1.1"
+        "phpstan/phpstan": "^2.0",
+        "phpstan/phpstan-deprecation-rules": "^2.0"
     },
     "autoload": {
         "psr-4": {
