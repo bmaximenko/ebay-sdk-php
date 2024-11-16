@@ -1,6 +1,6 @@
 # eBay SDK for PHP
 
-This is a fork of [benmorel/ebay-sdk-php](https://github.com/benmorel/ebay-sdk-php) by [@benmorel](https://github.com/benmorel), with support for PHP 8.2.
+This is a fork of [benmorel/ebay-sdk-php](https://github.com/benmorel/ebay-sdk-php) by [@benmorel](https://github.com/benmorel) which I maintain to have no deprecation warnings in my project.
 
 The original project has been officially abandoned in February 2020.
 
@@ -10,7 +10,7 @@ but to provide a solution for a smooth upgrade of existing apps to PHP 8.2. New 
 [![Build Status](https://github.com/bmaximenko/ebay-sdk-php/workflows/CI/badge.svg)](https://github.com/bmaximenko/ebay-sdk-php/actions)
 [![Latest Stable Version](https://poser.pugx.org/bmaximenko/ebay-sdk-php/v/stable)](https://packagist.org/packages/bmaximenko/ebay-sdk-php)
 [![Total Downloads](https://poser.pugx.org/bmaximenko/ebay-sdk-php/downloads)](https://packagist.org/packages/bmaximenko/ebay-sdk-php)
-[![License](https://img.shields.io/github/license/benmorel/ebay-sdk-php)](https://opensource.org/license/apache-2-0/)
+[![License](https://img.shields.io/github/license/bmaximenko/ebay-sdk-php)](https://opensource.org/license/apache-2-0/)
 ---
 
 This project enables PHP developers to use the eBay API in their PHP code, and build software using services such as Finding, Trading, Shopping, etc.

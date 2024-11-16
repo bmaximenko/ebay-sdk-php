@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php-64bit": "^8.0",
         "ext-curl": "*",
         "ext-libxml": "*",
         "guzzlehttp/guzzle": "^6.0 || ^7.0",
